@@ -33,7 +33,7 @@
         "@ast-grep/napi": "^0.3.1",
         "dprint": "^0.35.3",
         "magic-string": "^0.30.0",
-        "zx": "^7.2.1"
+        "zx": "^8.1.1"
     },
     "dependencies": {
         "tslib": "^2.4.0"
